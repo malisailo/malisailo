@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @malisailo
 - 👀 I’m interested in reading, studying, bubble tea
 - 🌱 I’m currently learning python
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I am studying physics with astrophysics
 
 <!---
