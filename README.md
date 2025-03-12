@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malisailo
-- 👀 I’m interested in reading, studying, bubble tea
+- 👀 I’m interested in reading, gaming, bubble tea, physics
 - 🌱 I’m currently learning python and C
 - ⚡ Fun fact: I am studying physics with astrophysics
 
