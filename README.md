@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @malisailo
 - 👀 I’m interested in reading, studying, bubble tea
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and C
 - ⚡ Fun fact: I am studying physics with astrophysics
 
 <!---
